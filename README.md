@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student at the Lodz University of Technology and an aspiring <b>Full-stack developer</b>. 
+I am a student at the Lodz University of Technology and an aspiring <b>Full-stack developer</b>.<br> 
 Also intrested in machine learning and data analysis.
 <!--
 **oskarolaszczyk/oskarolaszczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
