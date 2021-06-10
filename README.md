@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 
 ### Hi there 👋
-<img src="memoji.png" width="100" height="100" style="float:right">
+<img align="right" src="memoji.png" width="150" height="150" style="margin:0">
 
-<p style="float:left">I am a student at the Lodz University of Technology
+<br>I am a student at the Lodz University of Technology
 and an aspiring <b>Full-stack developer</b>.<br>
-Also intrested in machine learning and data analysis.</p>
+Also intrested in machine learning and data analysis.
 
 
 <!--
