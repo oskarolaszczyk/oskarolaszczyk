@@ -3,7 +3,7 @@
 <img align="right" src="memoji.png" width="150" height="150" style="margin:0">
 
 I am a student at the Lodz University of Technology
-and an aspiring <b>Full-stack developer</b>.<br>
+and an aspiring <b>Full-Stack Developer</b>.<br>
 Also intrested in machine learning and data analysis.
 
 **Languages and Tools that I'm using:**  
