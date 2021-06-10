@@ -13,9 +13,9 @@ Also intrested in machine learning and data analysis.
 <code><img height="30" width="30" src="img/postgres.png"></code>
 <code><img height="30" width="30" src="img/mongodb.png"></code>
 <code><img height="30" width="30" src="img/html.png"></code>
-<code><img height="30" width="30" src="img/css.png"></code>
+<code><img height="30" width="25" src="img/css.png"></code>
 <code><img height="30" width="30" src="img/js.png"></code>
-<code><img height="30" width="30" src="img/react.png"></code>
+<code><img height="30" width="32" src="img/react.png"></code>
 <code><img height="30" width="30" src="img/vue.png"></code>
 <code><img height="30" width="30" src="img/nodejs.png"></code>
 <code><img height="30" width="30" src="img/android.png"></code>
