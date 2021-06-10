@@ -1,7 +1,31 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 I am a student at the Lodz University of Technology and an aspiring <b>Full-stack developer</b>.<br> 
 Also intrested in machine learning and data analysis.
+<!--
+**oskarolaszczyk/oskarolaszczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--> 
+
+
+### Hi there 👋
+<img align="right" src="memoji.png" width="150" height="150" style="margin:0">
+
+<br>I am a student at the Lodz University of Technology
+and an aspiring <b>Full-stack developer</b>.<br>
+Also intrested in machine learning and data analysis.
+
+
 <!--
 **oskarolaszczyk/oskarolaszczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
