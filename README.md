@@ -2,7 +2,7 @@
 ### Hi there 👋
 <img align="right" src="memoji.png" width="150" height="150" style="margin:0">
 
-<br>I am a student at the Lodz University of Technology
+I am a student at the Lodz University of Technology
 and an aspiring <b>Full-stack developer</b>.<br>
 Also intrested in machine learning and data analysis.
 
