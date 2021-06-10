@@ -15,16 +15,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+--> 
 
 
 ### Hi there 👋
+<img src="memoji.png" width="100" height="100" style="float:right">
 
-<img src="memoji.png" width="70" height="70" style="float:right">
+<p style="float:left">I am a student at the Lodz University of Technology
+and an aspiring <b>Full-stack developer</b>.<br>
+Also intrested in machine learning and data analysis.</p>
 
-I am a student at the Lodz University of Technology
-and an aspiring <br><b>Full-stack developer</b>.
-Also intrested in machine learning and data analysis.
+
 <!--
 **oskarolaszczyk/oskarolaszczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
