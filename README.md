@@ -9,6 +9,7 @@ Also intrested in machine learning and data analysis.
 **Languages and Tools that I'm using:**  
 
 <code><img height="30" width="30" src="img/python.png"></code>
+<code><img height="30" width="30" src="img/flask.png"></code>
 <code><img height="30" width="30" src="img/java.png"></code>
 <code><img height="30" width="30" src="img/postgres.png"></code>
 <code><img height="30" width="30" src="img/mongodb.png"></code>
