@@ -34,6 +34,6 @@ I was a student at the Lodz University of Technology.
 
 ###
 
-<img src="https://raw.githubusercontent.com/oskarolaszczyk/oskarolaszczyk/blob/output/snake.svg" alt="Snake animation" />
+![Snake gif](https://github.com/oskarolaszczyk/oskarolaszczyk/blob/output/github-contribution-grid-snake.gif)
 
 ###
