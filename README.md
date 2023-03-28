@@ -14,7 +14,7 @@ I was a student at the Lodz University of Technology.
 
 📚 I'm currently learning Django and Docker.
 
-**Languages and Tools that I'm using:**
+**Languages, frameworks and tools that I'm using:**
 
 ###
 
