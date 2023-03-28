@@ -1,38 +1,39 @@
+### Hi there! I'm Oskar 👋
 
-### Hi there 👋
 <img align="right" src="memoji.png" width="150" height="150" style="margin:0">
 
-I am a student at the Lodz University of Technology
-and an aspiring <b>Full-Stack Developer</b>.<br>
+<b>Python Developer</b> 🐍 and an aspiring <b>Full-Stack Developer</b>.
 Also intrested in machine learning and data analysis.
+I was a student at the Lodz University of Technology.
 
-**Languages and Tools that I'm using:**  
+###
 
-<code><img height="30" width="30" src="img/python.png"></code>
-<code><img height="30" width="30" src="img/flask.png"></code>
-<code><img height="30" width="30" src="img/java.png"></code>
-<code><img height="30" width="30" src="img/postgres.png"></code>
-<code><img height="30" width="30" src="img/mongodb.png"></code>
-<code><img height="30" width="30" src="img/html.png"></code>
-<code><img height="30" width="25" src="img/css.png"></code>
-<code><img height="30" width="30" src="img/js.png"></code>
-<code><img height="30" width="32" src="img/react.png"></code>
-<code><img height="30" width="30" src="img/vue.png"></code>
-<code><img height="30" width="30" src="img/nodejs.png"></code>
-<code><img height="30" width="30" src="img/android.png"></code>
-<code><img height="30" width="30" src="img/git.png"></code>
+👨🏻‍💻 I'm working on my own projects and learning new technologies.
 
-<!--
-**oskarolaszczyk/oskarolaszczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+📚 I'm currently learning Django and Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages and Tools that I'm using:**
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" height="40" width="52" alt="flask logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" width="52" alt="django logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" width="52" alt="azure logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" width="52" alt="jquery logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/oskarolaszczyk/oskarolaszczyk/blob/output/snake.svg" alt="Snake animation" />
+
+###
