@@ -3,7 +3,7 @@
 <img align="right" src="memoji.png" width="150" height="150" style="margin:0">
 
 <b>Python Developer</b> 🐍 and an aspiring <b>Full-Stack Developer</b>.
-Also intrested in machine learning and data analysis.
+Also interested in machine learning and data analysis.
 I was studying Information Technology at the Lodz University of Technology.
 
 ###
