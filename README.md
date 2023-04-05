@@ -4,7 +4,7 @@
 
 <b>Python Developer</b> 🐍 and an aspiring <b>Full-Stack Developer</b>.
 Also interested in machine learning and data analysis.
-I was studying Information Technology at the Lodz University of Technology.
+I'm studying Information Technology at the Lodz University of Technology.
 
 ###
 
