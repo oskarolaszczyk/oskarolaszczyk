@@ -10,9 +10,6 @@ I'm studying Information Technology at the Lodz University of Technology.
 
 👨🏻‍💻 I'm working on my own projects and learning new technologies.
 
-###
-
-📚 I'm currently learning Django and Docker.
 
 **Languages, frameworks and tools that I'm using:**
 
@@ -34,6 +31,3 @@ I'm studying Information Technology at the Lodz University of Technology.
 
 ###
 
-![Snake gif](https://github.com/oskarolaszczyk/oskarolaszczyk/blob/output/github-contribution-grid-snake.svg)
-
-###
